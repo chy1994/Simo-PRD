@@ -9,7 +9,8 @@ the Product Requirements Document of Simo
   1. 故障自愈
   2. 脚本管理
 + 文档链接
-  1. 需求文档：[故障自愈需求文档（V2）](https://github.com/chy1994/Simo-PRD/find/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88)
+  1. 需求文档：[故障自愈需求文档（V2）](https://github.com/chy1994/Simo-PRD/blob/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88/SIMO%20%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%EF%BC%88V2%EF%BC%89.docx"这是V2版本的需求文档")
+  2.原型链接：[故障自愈原型说明（V2）](https://github.com/chy1994/Simo-PRD/blob/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88%E5%8E%9F%E5%9E%8B%E8%AF%B4%E6%98%8E.rp"这是V2版本的原型")
  
   
      
