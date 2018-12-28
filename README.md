@@ -13,6 +13,8 @@ the Product Requirements Document of Simo
 >   4. 脚本管理-脚本列表-操作：去除“立即执行”功能
 >   5. 脚本管理-新建脚本：新增“测试”功能
 >   6. 自愈报告-自愈详情：列表新增“自愈对象”展示列
+>   7. 脚本新增版本管理
+>   8. 去掉列表中“查看”按钮，以“点击名称列进行查看”取代
 >   * 文档链接
 >   1. 需求文档：[故障自愈需求文档（V3）](https://github.com/chy1994/Simo-PRD/blob/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88/SIMO%20%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%EF%BC%88V3%EF%BC%89.docx)
 >   2. 原型：[故障自愈原型说明（V3）](https://github.com/chy1994/Simo-PRD/blob/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88/%E6%95%85%E9%9A%9C%E8%87%AA%E6%84%88%E5%8E%9F%E5%9E%8B%E8%AF%B4%E6%98%8E%EF%BC%88V3%EF%BC%89.rp)
